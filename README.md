@@ -12,4 +12,4 @@
 * ### [DACON] 한국어 문서 추출요약 AI 경진대회
   - 대회 링크 https://dacon.io/competitions/official/235671/overview/description/
   - 팀 깃헙 https://github.com/ojoo-J/CUAI-ML_Team2
-  - 최종순위 29/63
+  - 최종순위(개인) 29/63
