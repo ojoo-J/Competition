@@ -6,9 +6,9 @@
 
 
 * ### [교내] 2020 인공지능인문학 학술논문경연대회
-우수상 수상
+  우수상 수상
 
 
 * ### [DACON] 한국어 문서 추출요약 AI 경진대회
-https://dacon.io/competitions/official/235671/overview/description/
-최종순위: 29/63
+  https://dacon.io/competitions/official/235671/overview/description/
+  최종순위: 29/63
